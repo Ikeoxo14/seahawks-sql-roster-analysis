@@ -12,3 +12,6 @@ Of the players I selected, wide receivers had the most scrimmage yards (2,835). 
 - `seahawks_roster_analysis..sqlite3` — the database used for the analysis
 
 This is a sample of nine players, not the full Seahawks roster.
+## Data source
+
+I used the [Seattle Seahawks’ 2025 regular-season player stats](https://www.seahawks.com/team/stats/2025/reg) as the reference for this project. I selected nine players and entered their stats into my SQLite database.
